@@ -7,6 +7,9 @@ Severity Assessment: The application calculates the severity of the symptoms and
 Precautionary Measures: Provides users with precautionary measures and descriptions for identified illnesses.
 
 # Installation
+Clone the repository:
 git clone https://github.com/bansalsahab/healthcare-chatbot.git
+
+
 cd bot-doctor-chatbot
 pip install -r requirements.txt
